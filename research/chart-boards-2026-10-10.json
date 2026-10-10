@@ -1,0 +1,3273 @@
+{
+ "captured": "2026-10-10",
+ "boards": {
+  "all_time_top50": {
+   "label": "All-time top 50 (lenses tab top_overall)",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "BEEN HER!",
+     "creator": "therealoveme",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1381124176592700",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 2,
+     "name": "Dazz Cam X",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3783282204737721",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 3,
+     "name": "Stretch Tongue Cat",
+     "creator": "eren892",
+     "categories": [
+      "Pets",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "2552928691428865",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 4,
+     "name": "mustache + tattoos",
+     "creator": "eren892",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1705823704909742",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 5,
+     "name": "Opinions Muted",
+     "creator": "jasirbaluch",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "4408904322047807",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 6,
+     "name": "Soulja Boy",
+     "creator": "eren892",
+     "categories": [
+      "Appearance",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "640603096193091",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 7,
+     "name": "Nashville Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3777509769032184",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 8,
+     "name": "Summer Tanning",
+     "creator": "saetenation",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2343196839093365",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 9,
+     "name": "Dazz Vibe",
+     "creator": "n-zw",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "863254199265052",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 10,
+     "name": "Pleasan Filter",
+     "creator": "u.du",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "444065387200112",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 11,
+     "name": "2013 Stretched v2",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3321556039596246",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 12,
+     "name": "No Makeup >",
+     "creator": "n-zw",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "4047439875404094",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 13,
+     "name": "2016 + lashes",
+     "creator": "eren892",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "3250568820640592",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 14,
+     "name": "Light Filter MI",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "4343483380671762",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 15,
+     "name": "Funny smile12",
+     "creator": "mr_drjj",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "2175521323601172",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 16,
+     "name": "I'm Single Because",
+     "creator": "nemo_axo",
+     "categories": [
+      "Quiz",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3366842168777426",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 17,
+     "name": "day vibes",
+     "creator": "sanjaynegi134",
+     "categories": [
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "3917147744995955",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 18,
+     "name": "Dream Contour",
+     "creator": "tgn-p",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1368823390400393",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 19,
+     "name": "Classic-Light",
+     "creator": "mysnaplenses",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1806703896083063",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 20,
+     "name": "Love Lineup Game",
+     "creator": "iamsahil_45",
+     "categories": [
+      "Bitmoji",
+      "Quiz",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "3316608233509623",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 21,
+     "name": "Soul Match",
+     "creator": "anubhav_1911",
+     "categories": [
+      "Quiz",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "990247788290480",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 22,
+     "name": "Lash Light Touch",
+     "creator": "abeer_lenses",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1951289668732858",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 23,
+     "name": "Letter to a friend",
+     "creator": "yj1designstudio",
+     "categories": [
+      "Friends",
+      "Bitmoji",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "69200651516487",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 24,
+     "name": "Iconic Gaze",
+     "creator": "queensfilter",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "904004855600927",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 25,
+     "name": "Affection",
+     "creator": "ifaizanxheikh",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3324236096966687",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 26,
+     "name": "2016 Lite",
+     "creator": "eren892",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "4058709872915570",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 27,
+     "name": "Biggest Mistake ?",
+     "creator": "nemo_axo",
+     "categories": [
+      "Quiz"
+     ],
+     "madeWith": "",
+     "lensId": "1688987419006515",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 28,
+     "name": "Bold stroke",
+     "creator": "hamdnn.7",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "1706648337598669",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 29,
+     "name": "monkey",
+     "creator": "ozean01",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3103302987774520",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 30,
+     "name": "Guess The Birthday",
+     "creator": "yj1designstudio",
+     "categories": [
+      "Quiz",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "1899818787658302",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 31,
+     "name": "Sugar Wink",
+     "creator": "zilal_k40",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "3177245131787721",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 32,
+     "name": "Peach Fuzz",
+     "creator": "ashxfilters",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3168930074860410",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 33,
+     "name": "VNTG-35",
+     "creator": "ifaizanxheikh",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "570577947349463",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 34,
+     "name": "Vrtc",
+     "creator": "saqib_m55",
+     "categories": [
+      "AI",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "3739095567725435",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 35,
+     "name": "4k",
+     "creator": "fathyalhasan",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3354816271945708",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 36,
+     "name": "Sigma Face",
+     "creator": "eren892",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3595884176561720",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 37,
+     "name": "damn those eyes",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "1952595337575617",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 38,
+     "name": "Autizmen Stretch",
+     "creator": "shambhvieeeeee",
+     "categories": [
+      "Video Effects",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3534586414956387",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 39,
+     "name": "L2+78",
+     "creator": "blbl_23",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "3116428395755260",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 40,
+     "name": "Good Light",
+     "creator": "u.du",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2622541518978255",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 41,
+     "name": "CineReal Glow",
+     "creator": "jaiminjoshi038",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1172010800805210",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 42,
+     "name": "2016 Nerd Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects",
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "1675243532946626",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 43,
+     "name": "Hair Colour",
+     "creator": "bae_buzz",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "793710088107779",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 44,
+     "name": "Dazz Vintage",
+     "creator": "n-zw",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2466410875525755",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 45,
+     "name": "Your Fate Squad",
+     "creator": "aarizxviii",
+     "categories": [
+      "Quiz",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "1601370092947963",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 46,
+     "name": "mustache + beanie",
+     "creator": "eren892",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2428202842544403",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 47,
+     "name": "5+8",
+     "creator": "blbl_23",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "35047065729469",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 48,
+     "name": "Lizard Lizard",
+     "creator": "ozean01",
+     "categories": [],
+     "madeWith": "",
+     "lensId": "314116859015051",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 49,
+     "name": "2016 Eyes",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2818460751702038",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 50,
+     "name": "orthodontic",
+     "creator": "eo-ii1",
+     "categories": [
+      "Appearance",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "179357962518543",
+     "isNew": null,
+     "detail": ""
+    }
+   ]
+  },
+  "rolling_30": {
+   "label": "Estimated Lens+ Score, last 30 days (asOf 2026-10-08)",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "BEEN HER!",
+     "creator": "therealoveme",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1381124176592700",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 2,
+     "name": "Dazz Cam X",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3783282204737721",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 3,
+     "name": "No Makeup >",
+     "creator": "n-zw",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "4047439875404094",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 4,
+     "name": "Classic-Light",
+     "creator": "mysnaplenses",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1806703896083063",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 5,
+     "name": "Light Filter MI",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "4343483380671762",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 6,
+     "name": "Sweet DarkEn",
+     "creator": "saetenation",
+     "categories": [
+      "Appearance",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1107414504949642",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 7,
+     "name": "4k",
+     "creator": "fathyalhasan",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3354816271945708",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 8,
+     "name": "2016 Lite",
+     "creator": "eren892",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "4058709872915570",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 9,
+     "name": "Opinions Muted",
+     "creator": "jasirbaluch",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "4408904322047807",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 10,
+     "name": "HD",
+     "creator": "afaa109",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "571952345194793",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 11,
+     "name": "VNTG-35",
+     "creator": "ifaizanxheikh",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "570577947349463",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 12,
+     "name": "Pleasant Vivid",
+     "creator": "trend-30",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2753589569324357",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 13,
+     "name": "Face Look >",
+     "creator": "n-zw",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "4157665914726339",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 14,
+     "name": "No&Filter",
+     "creator": "u.du",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2146109395826982",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 15,
+     "name": "Funny smile12",
+     "creator": "mr_drjj",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "2175521323601172",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 16,
+     "name": "Affection",
+     "creator": "ifaizanxheikh",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3324236096966687",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 17,
+     "name": "Dream Contour",
+     "creator": "tgn-p",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1368823390400393",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 18,
+     "name": "+0627",
+     "creator": "blbl.45",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3809464328803710",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 19,
+     "name": "2013 Stretched v3",
+     "creator": "eren892",
+     "categories": [
+      "Funny",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3268435895563391",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 20,
+     "name": "Catfish Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "572983134886041",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 21,
+     "name": "mustache + tattoos",
+     "creator": "eren892",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1705823704909742",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 22,
+     "name": "ghostface sticker",
+     "creator": "scoozywithuzi",
+     "categories": [
+      "Reactions",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "1687406895272024",
+     "isNew": true,
+     "detail": ""
+    },
+    {
+     "rank": 23,
+     "name": "Dewey Reactions",
+     "creator": "scoozywithuzi",
+     "categories": [
+      "Reactions",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "706642523683960",
+     "isNew": true,
+     "detail": ""
+    },
+    {
+     "rank": 24,
+     "name": "day vibes",
+     "creator": "sanjaynegi134",
+     "categories": [
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "3917147744995955",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 25,
+     "name": "orthodontic",
+     "creator": "eo-ii1",
+     "categories": [
+      "Appearance",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "179357962518543",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 26,
+     "name": "2013 Stretched v2",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3321556039596246",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 27,
+     "name": "Iconic Gaze",
+     "creator": "queensfilter",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "904004855600927",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 28,
+     "name": "Soulja Boy",
+     "creator": "eren892",
+     "categories": [
+      "Appearance",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "640603096193091",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 29,
+     "name": "Dream Filter",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1270623261429228",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 30,
+     "name": "Parallel Beauty",
+     "creator": "i.gaurv",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1085974034753427",
+     "isNew": true,
+     "detail": ""
+    },
+    {
+     "rank": 31,
+     "name": "CineReal Glow",
+     "creator": "jaiminjoshi038",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1172010800805210",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 32,
+     "name": "Vintage Stretched",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "1450668294882960",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 33,
+     "name": "Instant Stretched",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3367117060252398",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 34,
+     "name": "MAKEUP CAM",
+     "creator": "bellafilter",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "4491711301598053",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 35,
+     "name": "Spider Cat Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Pets",
+      "Funny",
+      "Appearance",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1579929627492790",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 36,
+     "name": "Pinky Mood",
+     "creator": "tgn-p",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3179444163113079",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 37,
+     "name": "Nashville Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3777509769032184",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 38,
+     "name": "Fire & Ice",
+     "creator": "jaspritg10",
+     "categories": [
+      "AI",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1566185727840612",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 39,
+     "name": "Good Light 2",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "776392783121550",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 40,
+     "name": "Coffee >",
+     "creator": "n-zw",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2939475759438253",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 41,
+     "name": "HD+",
+     "creator": "afaa109",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "585421362635950",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 42,
+     "name": "green filter",
+     "creator": "eren892",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "626927918533907",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 43,
+     "name": "~just",
+     "creator": "heenazenoff",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "85418441631339",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 44,
+     "name": "Pleasan Filter",
+     "creator": "u.du",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "444065387200112",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 45,
+     "name": "Clean Pro",
+     "creator": "u.du",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2762179500723848",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 46,
+     "name": "Dazz Vintage",
+     "creator": "n-zw",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2466410875525755",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 47,
+     "name": "Letter to a friend",
+     "creator": "yj1designstudio",
+     "categories": [
+      "Friends",
+      "Bitmoji",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "69200651516487",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 48,
+     "name": "My Clear Skin",
+     "creator": "therealoveme",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "986949255848610",
+     "isNew": true,
+     "detail": ""
+    },
+    {
+     "rank": 49,
+     "name": "Aesthetic Blue",
+     "creator": "bebo.filters",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1447644629240391",
+     "isNew": false,
+     "detail": ""
+    },
+    {
+     "rank": 50,
+     "name": "Nerd Cat Stretch",
+     "creator": "eren892",
+     "categories": [
+      "Funny",
+      "Appearance",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "958980435369290",
+     "isNew": false,
+     "detail": ""
+    }
+   ]
+  },
+  "most_improved_creators": {
+   "label": "Most improved creators (MoM change in share)",
+   "entries": [
+    {
+     "rank": 1,
+     "name": ":(",
+     "creator": "y311t",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "307244923296841",
+     "isNew": null,
+     "detail": "+22.7pp"
+    },
+    {
+     "rank": 2,
+     "name": "PLEASANT YP",
+     "creator": "o-xux",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3274483210911886",
+     "isNew": null,
+     "detail": "+20.4pp"
+    },
+    {
+     "rank": 3,
+     "name": "BWN Mood",
+     "creator": "almaferji",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1984549911807874",
+     "isNew": null,
+     "detail": "+15.9pp"
+    },
+    {
+     "rank": 4,
+     "name": "ETHEREAL",
+     "creator": "shalini.danodia",
+     "categories": [
+      "Aesthetic",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2471633557586548",
+     "isNew": null,
+     "detail": "+15.7pp"
+    },
+    {
+     "rank": 5,
+     "name": "Golden Hour Glow",
+     "creator": "preet_ghuman077",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3556851539309225",
+     "isNew": null,
+     "detail": "+15.6pp"
+    },
+    {
+     "rank": 6,
+     "name": "Saudi Emblem Logo",
+     "creator": "strike.2026",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3354197802467295",
+     "isNew": null,
+     "detail": "+15.4pp"
+    },
+    {
+     "rank": 7,
+     "name": "Monochrome Grace",
+     "creator": "purplejoyce",
+     "categories": [
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3053550091672927",
+     "isNew": null,
+     "detail": "+13.5pp"
+    },
+    {
+     "rank": 8,
+     "name": "DY4",
+     "creator": "az-sea",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3542764041490305",
+     "isNew": null,
+     "detail": "+12.9pp"
+    },
+    {
+     "rank": 9,
+     "name": "Vanilla Sky Glow",
+     "creator": "dreamrush01",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1315153491148066",
+     "isNew": null,
+     "detail": "+12.8pp"
+    },
+    {
+     "rank": 10,
+     "name": "Hungry Rabbit",
+     "creator": "suri-vaibhav",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "2321481497585154",
+     "isNew": null,
+     "detail": "+12.6pp"
+    },
+    {
+     "rank": 11,
+     "name": "Time",
+     "creator": "len.vnt",
+     "categories": [
+      "Greeting"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "862223417594436",
+     "isNew": null,
+     "detail": "+12.5pp"
+    },
+    {
+     "rank": 12,
+     "name": "Gold Emblem Glow",
+     "creator": "mix69.sa",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "157642624841030",
+     "isNew": null,
+     "detail": "+12.5pp"
+    },
+    {
+     "rank": 13,
+     "name": "Quote!",
+     "creator": "shahjee_9211",
+     "categories": [
+      "Aesthetic",
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4002703499838725",
+     "isNew": null,
+     "detail": "+12.4pp"
+    },
+    {
+     "rank": 14,
+     "name": "Same Everday",
+     "creator": "jjmillzzz",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4144265627409628",
+     "isNew": null,
+     "detail": "+11.8pp"
+    },
+    {
+     "rank": 15,
+     "name": "selfie with monkey",
+     "creator": "xheluvsmelx",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "3410272886645075",
+     "isNew": null,
+     "detail": "+11.8pp"
+    },
+    {
+     "rank": 16,
+     "name": "Blue Edge HD",
+     "creator": "shoaib_j2477",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3372408463090075",
+     "isNew": null,
+     "detail": "+11.4pp"
+    },
+    {
+     "rank": 17,
+     "name": "\u0648\u0636\u0648\u062d\u064a \u0641\u062a\u0646\u0629",
+     "creator": "eortfe",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "999937250918089",
+     "isNew": null,
+     "detail": "+11.3pp"
+    },
+    {
+     "rank": 18,
+     "name": "Braces",
+     "creator": "hsolanikow",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "4121107148648962",
+     "isNew": null,
+     "detail": "+11.1pp"
+    },
+    {
+     "rank": 19,
+     "name": "King",
+     "creator": "i-0sf",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2748641772268423",
+     "isNew": null,
+     "detail": "+11.0pp"
+    },
+    {
+     "rank": 20,
+     "name": "Soft Glow Colors",
+     "creator": "hp.97",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4228378265741740",
+     "isNew": null,
+     "detail": "+11.0pp"
+    },
+    {
+     "rank": 21,
+     "name": "nczz4",
+     "creator": "nczz4",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4353447715522390",
+     "isNew": null,
+     "detail": "+11.0pp"
+    },
+    {
+     "rank": 22,
+     "name": "Big zohib",
+     "creator": "johib_rajput",
+     "categories": [
+      "Appearance",
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1022683397992476",
+     "isNew": null,
+     "detail": "+11.0pp"
+    },
+    {
+     "rank": 23,
+     "name": "Latina Glow",
+     "creator": "ssonbeat001",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3740676141117312",
+     "isNew": null,
+     "detail": "+11.0pp"
+    },
+    {
+     "rank": 24,
+     "name": "BitmojiVCall",
+     "creator": "isha.dutta",
+     "categories": [
+      "Bitmoji",
+      "Funny",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "2142054947581312",
+     "isNew": null,
+     "detail": "+10.8pp"
+    },
+    {
+     "rank": 25,
+     "name": "Red Crown Accent",
+     "creator": "nismo.com",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3471845546467527",
+     "isNew": null,
+     "detail": "+10.8pp"
+    },
+    {
+     "rank": 26,
+     "name": "Natural Glam Pro",
+     "creator": "a.3060",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3390206808093809",
+     "isNew": null,
+     "detail": "+10.6pp"
+    },
+    {
+     "rank": 27,
+     "name": "InstaEyes",
+     "creator": "insaneashraf",
+     "categories": [
+      "Reactions",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2066463516997142",
+     "isNew": null,
+     "detail": "+10.6pp"
+    },
+    {
+     "rank": 28,
+     "name": "Shadow Face mich",
+     "creator": "mich_mich8",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2043854822356805",
+     "isNew": null,
+     "detail": "+10.5pp"
+    },
+    {
+     "rank": 29,
+     "name": "Natural Pink Glow ",
+     "creator": "muhammad_es7902",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1038901190712848",
+     "isNew": null,
+     "detail": "+10.4pp"
+    },
+    {
+     "rank": 30,
+     "name": "BIG LIPS",
+     "creator": "meetkalall",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "4428214506400190",
+     "isNew": null,
+     "detail": "+10.4pp"
+    },
+    {
+     "rank": 31,
+     "name": "\u062d\u0637\u0646\u064a \u0641\u064a \u064a\u0645\u064a\u0646\u0643",
+     "creator": "s-ekn",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3424360380194336",
+     "isNew": null,
+     "detail": "+10.4pp"
+    },
+    {
+     "rank": 32,
+     "name": "Choose Lens Eyes",
+     "creator": "alsnafey1",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3794071171858137",
+     "isNew": null,
+     "detail": "+10.3pp"
+    },
+    {
+     "rank": 33,
+     "name": "Desert Rush",
+     "creator": "snapalens",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "2371784162594378",
+     "isNew": null,
+     "detail": "+10.2pp"
+    },
+    {
+     "rank": 34,
+     "name": "True Nature Tones",
+     "creator": "ahmed555aa25",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3565853790255435",
+     "isNew": null,
+     "detail": "+10.0pp"
+    },
+    {
+     "rank": 35,
+     "name": "Heart clean",
+     "creator": "f1nn.pb",
+     "categories": [
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "2345464603559682",
+     "isNew": null,
+     "detail": "+10.0pp"
+    },
+    {
+     "rank": 36,
+     "name": "iphones Save",
+     "creator": "hkumar_212",
+     "categories": [
+      "Games",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3867119971929971",
+     "isNew": null,
+     "detail": "+9.9pp"
+    },
+    {
+     "rank": 37,
+     "name": "Luminous Portrait",
+     "creator": "mianans0",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4318744377890905",
+     "isNew": null,
+     "detail": "+9.8pp"
+    },
+    {
+     "rank": 38,
+     "name": "Radiant Glow",
+     "creator": "shalan8888",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1270898146702389",
+     "isNew": null,
+     "detail": "+9.8pp"
+    },
+    {
+     "rank": 39,
+     "name": "Soft Radiance",
+     "creator": "ms.w11",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1709603284779370",
+     "isNew": null,
+     "detail": "+9.7pp"
+    },
+    {
+     "rank": 40,
+     "name": "Photo Tag \u062a\u062d\u064a\u0627\u062a\u064a",
+     "creator": "matach1144",
+     "categories": [
+      "Greeting"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2813787836010630",
+     "isNew": null,
+     "detail": "+9.5pp"
+    },
+    {
+     "rank": 41,
+     "name": "Spider man",
+     "creator": "mo7.ssn",
+     "categories": [
+      "Appearance",
+      "Games"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4209686567250843",
+     "isNew": null,
+     "detail": "+9.2pp"
+    },
+    {
+     "rank": 42,
+     "name": "deep quotes",
+     "creator": "notzunii",
+     "categories": [
+      "Aesthetic",
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "853083726975286",
+     "isNew": null,
+     "detail": "+9.2pp"
+    },
+    {
+     "rank": 43,
+     "name": "Curious Cat",
+     "creator": "dianascreation",
+     "categories": [
+      "Reactions",
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2988335308463356",
+     "isNew": null,
+     "detail": "+9.1pp"
+    },
+    {
+     "rank": 44,
+     "name": "Moonlight Mech",
+     "creator": "smsm11x",
+     "categories": [
+      "Face Cover",
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2189059075396151",
+     "isNew": null,
+     "detail": "+9.0pp"
+    },
+    {
+     "rank": 45,
+     "name": "iPhone 18",
+     "creator": "mix.q88",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "751653780551348",
+     "isNew": null,
+     "detail": "+9.0pp"
+    },
+    {
+     "rank": 46,
+     "name": "Radiant Glow Face",
+     "creator": "loolo_al20",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1629064059841573",
+     "isNew": null,
+     "detail": "+8.9pp"
+    },
+    {
+     "rank": 47,
+     "name": "Pink Crystal Glow",
+     "creator": "celebrity_dmm",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3850352424541748",
+     "isNew": null,
+     "detail": "+8.9pp"
+    },
+    {
+     "rank": 48,
+     "name": "Big Hand Mustache",
+     "creator": "l_alharbiii",
+     "categories": [
+      "Funny",
+      "Appearance",
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "20478546283916",
+     "isNew": null,
+     "detail": "+8.9pp"
+    },
+    {
+     "rank": 49,
+     "name": "Radiant Glass Glow",
+     "creator": "nawin9095",
+     "categories": [
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1642876673562933",
+     "isNew": null,
+     "detail": "+8.8pp"
+    },
+    {
+     "rank": 50,
+     "name": "haitoom_97  [3]",
+     "creator": "haitoom_97",
+     "categories": [
+      "Travel"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "800856925686041",
+     "isNew": null,
+     "detail": "+8.8pp"
+    }
+   ]
+  },
+  "debut_creators_2026_09": {
+   "label": "Creators with first rewarded lens in 2026-09",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Same Everday",
+     "creator": "jjmillzzz",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4144265627409628",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 2,
+     "name": "Untitled",
+     "creator": "snapcraftstudio",
+     "categories": [
+      "Funny",
+      "Greeting"
+     ],
+     "madeWith": "",
+     "lensId": "2860585802191334",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 3,
+     "name": "Saudi Emblem Logo",
+     "creator": "strike.2026",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3354197802467295",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 4,
+     "name": "makes u happy",
+     "creator": "mrthangwal07",
+     "categories": [
+      "Reactions",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2497403366555299",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 5,
+     "name": "\u0634\u0639\u0627\u0631 \u0627\u0644\u0639\u0636\u0645\u0627\u0621",
+     "creator": "y.vip07",
+     "categories": [],
+     "madeWith": "EasyLens",
+     "lensId": "1106589878092681",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 6,
+     "name": "Kaeloni Ai",
+     "creator": "zelinalens",
+     "categories": [
+      "AI",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1641708442433827",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 7,
+     "name": "Spread choco 2",
+     "creator": "no_thankx",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "4102209308973951",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 8,
+     "name": "Letter to a Friend",
+     "creator": "tusharv0003",
+     "categories": [
+      "Friends",
+      "Greeting",
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "729663548925759",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 9,
+     "name": "Who's thinking ?",
+     "creator": "unfold_05",
+     "categories": [
+      "Games",
+      "Quiz",
+      "Aesthetic",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "2690917411246950",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 10,
+     "name": "RENT A BOYFRIEND",
+     "creator": "aklens99",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "926201243981650",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 11,
+     "name": "Car Driving sim 2",
+     "creator": "rxwinder_31",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "4423197981138969",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 12,
+     "name": "SATINNY",
+     "creator": "mysnaplenses",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3966969366836346",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 13,
+     "name": "Crazy Face IRL",
+     "creator": "abbas_elsayed20",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2824508073815093",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 14,
+     "name": "Pose bro!",
+     "creator": "cjp_india",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4023869102634466",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 15,
+     "name": "Real 1980s Studio",
+     "creator": "karthikvlogs26",
+     "categories": [
+      "Video Effects",
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3447999889281167",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 16,
+     "name": "Emoji Face Mixer",
+     "creator": "osamamalik4422",
+     "categories": [
+      "Reactions",
+      "Face Cover",
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3345951466082007",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 17,
+     "name": "Muscle Sculpt",
+     "creator": "alhsoni",
+     "categories": [
+      "Appearance",
+      "Funny",
+      "AI"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1022752115482056",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 18,
+     "name": "Retro Glow Clock",
+     "creator": "whip_90",
+     "categories": [
+      "Video Effects",
+      "Greeting"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3257165900841879",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 19,
+     "name": "Azadi",
+     "creator": "lensistan",
+     "categories": [
+      "Funny",
+      "Appearance",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1626590155757723",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 20,
+     "name": "Pick Your Side",
+     "creator": "haezz5",
+     "categories": [
+      "Quiz"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2152775191809452",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 21,
+     "name": "TeA TiME cAt drink",
+     "creator": "uklenscreator",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "920978570283302",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 22,
+     "name": "Spider Man",
+     "creator": "wtfaukai",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3741844368507424",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 23,
+     "name": "Spider man",
+     "creator": "mo7.ssn",
+     "categories": [
+      "Appearance",
+      "Games"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4209686567250843",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 24,
+     "name": "Coffee Date Time",
+     "creator": "afishah6",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "98268995477842",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 25,
+     "name": "Photo Tag \u062a\u062d\u064a\u0627\u062a\u064a",
+     "creator": "matach1144",
+     "categories": [
+      "Greeting"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2813787836010630",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 26,
+     "name": "Rose Bouquet",
+     "creator": "eiraflowsnap",
+     "categories": [
+      "Greeting"
+     ],
+     "madeWith": "",
+     "lensId": "3886086551804104",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 27,
+     "name": "I Love Puh",
+     "creator": "moazisdabest",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4294005367942489",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 28,
+     "name": "Made In The 70s",
+     "creator": "ne_validated",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2043648662901214",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 29,
+     "name": "Warm Embrace",
+     "creator": "qg.p9",
+     "categories": [
+      "AI",
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1433144830817374",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 30,
+     "name": "Playful Cat Fun",
+     "creator": "ramangurjar_92",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4212985104071217",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 31,
+     "name": "Cat Snap",
+     "creator": "viral.life00",
+     "categories": [
+      "Pets",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "1260796382820905",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 32,
+     "name": "Here We Go Again",
+     "creator": "user_45564",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "2049421098260397",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 33,
+     "name": "CHIENNET\u00c9",
+     "creator": "paul.grdm",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2860791958818540",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 34,
+     "name": "First Coffee Mood",
+     "creator": "merooo7751",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2293237800826013",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 35,
+     "name": "HIM & I",
+     "creator": "bitmojihub",
+     "categories": [
+      "Aesthetic",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "1015811446565725",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 36,
+     "name": "Photo Clock Glow",
+     "creator": "f.4qn",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "148365491516347",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 37,
+     "name": "Gilded",
+     "creator": "jisoo-snapp",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "33122929099902",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 38,
+     "name": "Monkey Call Me",
+     "creator": "aybajwa",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4072797372461058",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 39,
+     "name": "MOOD",
+     "creator": "c-i5",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "3996381314358637",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 40,
+     "name": "Love Proposal",
+     "creator": "h-appy0",
+     "categories": [
+      "Bitmoji"
+     ],
+     "madeWith": "",
+     "lensId": "1088928970435046",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 41,
+     "name": "Gothic Pumpkin Glm",
+     "creator": "babiigirl5683",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "934241429651774",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 42,
+     "name": "Lash Noir",
+     "creator": "tommie_oj",
+     "categories": [
+      "Aesthetic",
+      "Video Effects",
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3169548568089869",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 43,
+     "name": "Glow Clock Center",
+     "creator": "q899v",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1811926584991289",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 44,
+     "name": "chilling",
+     "creator": "ramshapretty",
+     "categories": [
+      "Reactions",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3370140723042717",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 45,
+     "name": "LIFE IS BEST",
+     "creator": "parveenfati2529",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3767682890593743",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 46,
+     "name": "Your Footballer",
+     "creator": "sandhya_a4011",
+     "categories": [
+      "Quiz",
+      "Sports"
+     ],
+     "madeWith": "",
+     "lensId": "392113478159214",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 47,
+     "name": "Mini Block World",
+     "creator": "wydhydn",
+     "categories": [
+      "Appearance",
+      "Games"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "561781864940200",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 48,
+     "name": "Sorting",
+     "creator": "funy_time27",
+     "categories": [
+      "Quiz"
+     ],
+     "madeWith": "",
+     "lensId": "1637585272989687",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 49,
+     "name": "\u0645\u0644\u0627\u0645\u062d\u0646\u0627 \u0634\u062c\u0627\u0639\u0629 ",
+     "creator": "m6rn1",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1820928837742409",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    },
+    {
+     "rank": 50,
+     "name": "Wolf poetry ",
+     "creator": "zohaibmughal110",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3458720128093983",
+     "isNew": null,
+     "detail": "First rewarded lens 2026-09"
+    }
+   ]
+  },
+  "hit_rate_creators": {
+   "label": "Creators by share of submitted lenses rewarded",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "HAMOOD HABIBI GAME",
+     "creator": "kcrg",
+     "categories": [
+      "Games",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "106240440849746",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 2,
+     "name": "Stretch Tongue Cat",
+     "creator": "eren892",
+     "categories": [
+      "Pets",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "2552928691428865",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 3,
+     "name": "Dino Arcade Game",
+     "creator": "ketan_p6616",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "1387515084535179",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 4,
+     "name": "Colour GOAT Messi",
+     "creator": "kirti_pal123",
+     "categories": [
+      "Sports",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "392731952768542",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 5,
+     "name": "\u0644\u0627 \u062c\u0645\u064a\u0644 \u064a\u0628\u0642\u0649",
+     "creator": "iiim7mdz1",
+     "categories": [
+      "Funny"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2207132295286518",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 6,
+     "name": ":(",
+     "creator": "y311t",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "",
+     "lensId": "307244923296841",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 7,
+     "name": "Color Ronaldo Rush",
+     "creator": "nilesh20259349",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "3844373830401773",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 8,
+     "name": "LITE TAN v0",
+     "creator": "nerd.fav",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3238749060696622",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 9,
+     "name": "My Soulmate Finder",
+     "creator": "pr4tyu5h",
+     "categories": [
+      "Quiz"
+     ],
+     "madeWith": "",
+     "lensId": "3756893905363522",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 10,
+     "name": "Hungry Rabbit",
+     "creator": "suri-vaibhav",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "2321481497585154",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 11,
+     "name": "PLEASANT YP",
+     "creator": "o-xux",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3274483210911886",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 12,
+     "name": "Pleasan Filter",
+     "creator": "u.du",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "444065387200112",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 13,
+     "name": "UVB BY QFX",
+     "creator": "aiqueenfx",
+     "categories": [
+      "AI",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2196205896851961",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 14,
+     "name": "\u062d\u0637\u0646\u064a \u0641\u064a \u064a\u0645\u064a\u0646\u0643",
+     "creator": "s-ekn",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3424360380194336",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 15,
+     "name": "Pleasant Pw",
+     "creator": "india-34",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3201709276745252",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 16,
+     "name": "ETHEREAL",
+     "creator": "shalini.danodia",
+     "categories": [
+      "Aesthetic",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2471633557586548",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 17,
+     "name": "Soccer Color",
+     "creator": "ketanrnvv",
+     "categories": [
+      "Games",
+      "Sports"
+     ],
+     "madeWith": "",
+     "lensId": "2105427466087037",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 18,
+     "name": "Mario Tower Jump",
+     "creator": "uranus_silver",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "4112036182569600",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 19,
+     "name": "Soft Radiance",
+     "creator": "ms.w11",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1709603284779370",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 20,
+     "name": "Dazz Cam X",
+     "creator": "n-zw",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3783282204737721",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 21,
+     "name": "Altot Racer",
+     "creator": "altorah89",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "2361063924511570",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 22,
+     "name": "Boom Boom Chips",
+     "creator": "aashiamani",
+     "categories": [
+      "Games",
+      "Bitmoji"
+     ],
+     "madeWith": "",
+     "lensId": "1898788000838954",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 23,
+     "name": "Cat 13's Stretched",
+     "creator": "safzsafzsafz",
+     "categories": [
+      "Funny",
+      "Appearance",
+      "Pets"
+     ],
+     "madeWith": "",
+     "lensId": "2137588182252474",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 24,
+     "name": "Pleasant Vivid",
+     "creator": "trend-30",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "2753589569324357",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 25,
+     "name": "Red X Blue O",
+     "creator": "livejeddah",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "3394604854606775",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 26,
+     "name": "Ronaldo Video Call",
+     "creator": "vandana_pal1234",
+     "categories": [
+      "Sports",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "4190651272561177",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 27,
+     "name": "Kiss Me",
+     "creator": "a.alrise",
+     "categories": [
+      "Friends",
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1648099354842698",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 28,
+     "name": "Pastel Date Stamp",
+     "creator": "nolaasoom",
+     "categories": [
+      "Greeting"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "4128253988996237",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 29,
+     "name": "King",
+     "creator": "i-0sf",
+     "categories": [
+      "Reactions"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2748641772268423",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 30,
+     "name": "2010 Pixel Stretch",
+     "creator": "aliltookaleshi",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1802305845036778",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 31,
+     "name": "Hair Color",
+     "creator": "pdgna",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "2791866314052774",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 32,
+     "name": "Nail in Wall Game!",
+     "creator": "simonqr",
+     "categories": [
+      "Games",
+      "Funny"
+     ],
+     "madeWith": "",
+     "lensId": "3097530550466565",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 33,
+     "name": "Summer Tanning",
+     "creator": "saetenation",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2343196839093365",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 34,
+     "name": "Pleasan New",
+     "creator": "y3-j",
+     "categories": [
+      "Video Effects",
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "2271797314581217",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 35,
+     "name": "BEEN HER!",
+     "creator": "therealoveme",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1381124176592700",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 36,
+     "name": "Mini Golf Deluxe",
+     "creator": "aoepng",
+     "categories": [
+      "Games",
+      "Sports",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "3636497384169208",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 37,
+     "name": "Evening Platform",
+     "creator": "vr.v45",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "2843543370189872",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 38,
+     "name": "Cinematic Night",
+     "creator": "ghxstoncr4ck",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1050995819708171",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 39,
+     "name": "Room View Selfie",
+     "creator": "o-obad",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "3590317918555076",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 40,
+     "name": "Baby Otter",
+     "creator": "jhuilzilopochtl",
+     "categories": [
+      "Pets"
+     ],
+     "madeWith": "",
+     "lensId": "946336058140067",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 41,
+     "name": "\u062d\u0635\u0647 \u0628\u0646\u062a \u0627\u0644\u0639\u0642\u064a\u0644\u0627\u062a",
+     "creator": "he-336",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1595872551459947",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 42,
+     "name": "Amissus",
+     "creator": "aussiee.girl",
+     "categories": [
+      "Bitmoji",
+      "Friends"
+     ],
+     "madeWith": "",
+     "lensId": "314941492114024",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 43,
+     "name": "Desert Rush",
+     "creator": "snapalens",
+     "categories": [
+      "Games"
+     ],
+     "madeWith": "",
+     "lensId": "2371784162594378",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 44,
+     "name": "Affection",
+     "creator": "ifaizanxheikh",
+     "categories": [
+      "Aesthetic"
+     ],
+     "madeWith": "",
+     "lensId": "3324236096966687",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 45,
+     "name": "Grow Mustache",
+     "creator": "rutur0j",
+     "categories": [
+      "Funny",
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1174141108647149",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 46,
+     "name": "HIM & I",
+     "creator": "luminex_593",
+     "categories": [
+      "Bitmoji",
+      "Friends",
+      "Aesthetic",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "3595540602866923",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 47,
+     "name": "Noir Timestamp",
+     "creator": "oscardlgr249",
+     "categories": [
+      "Video Effects"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1408611978314760",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 48,
+     "name": "Jersey Match",
+     "creator": "nirmala56565",
+     "categories": [
+      "Sports",
+      "Video Effects"
+     ],
+     "madeWith": "",
+     "lensId": "1003441943527172",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 49,
+     "name": "Soft Glam Glow",
+     "creator": "walkerc2.0",
+     "categories": [
+      "Appearance",
+      "Aesthetic"
+     ],
+     "madeWith": "EasyLens",
+     "lensId": "1919953604654345",
+     "isNew": null,
+     "detail": ""
+    },
+    {
+     "rank": 50,
+     "name": "Dream Contour",
+     "creator": "tgn-p",
+     "categories": [
+      "Appearance"
+     ],
+     "madeWith": "",
+     "lensId": "1368823390400393",
+     "isNew": null,
+     "detail": ""
+    }
+   ]
+  }
+ },
+ "category_opportunities": [
+  {
+   "categoryId": "MCAT_4",
+   "branch": "Bitmoji",
+   "supply": "Under-represented",
+   "demand": "High demand",
+   "rank": 1
+  },
+  {
+   "categoryId": "MCAT_9",
+   "branch": "Quiz",
+   "supply": "Under-represented",
+   "demand": "High demand",
+   "rank": 2
+  },
+  {
+   "categoryId": "MCAT_3",
+   "branch": "Friends",
+   "supply": "Under-represented",
+   "demand": "Average demand",
+   "rank": 3
+  },
+  {
+   "categoryId": "CAT_13",
+   "branch": "Travel",
+   "supply": "Under-represented",
+   "demand": "Low demand",
+   "rank": 4
+  },
+  {
+   "categoryId": "MCAT_7",
+   "branch": "Greeting",
+   "supply": "Under-represented",
+   "demand": "Low demand",
+   "rank": 5
+  },
+  {
+   "categoryId": "CAT_8",
+   "branch": "Sports",
+   "supply": "Under-represented",
+   "demand": "Low demand",
+   "rank": 6
+  },
+  {
+   "categoryId": "MCAT_2",
+   "branch": "Aesthetic",
+   "supply": "Balanced",
+   "demand": "High demand",
+   "rank": 7
+  },
+  {
+   "categoryId": "MCAT_6",
+   "branch": "Reactions",
+   "supply": "Balanced",
+   "demand": "High demand",
+   "rank": 8
+  },
+  {
+   "categoryId": "SCAT_2",
+   "branch": "Funny",
+   "supply": "Balanced",
+   "demand": "Average demand",
+   "rank": 9
+  },
+  {
+   "categoryId": "MCAT_5",
+   "branch": "Pets",
+   "supply": "Balanced",
+   "demand": "Low demand",
+   "rank": 10
+  },
+  {
+   "categoryId": "MCAT_1",
+   "branch": "AI",
+   "supply": "Balanced",
+   "demand": "Low demand",
+   "rank": 11
+  },
+  {
+   "categoryId": "MCAT_10",
+   "branch": "Face Cover",
+   "supply": "Balanced",
+   "demand": "Low demand",
+   "rank": 12
+  },
+  {
+   "categoryId": "CAT_3",
+   "branch": "Games",
+   "supply": "Balanced",
+   "demand": "Low demand",
+   "rank": 13
+  },
+  {
+   "categoryId": "MCAT_8",
+   "branch": "Video Effects",
+   "supply": "Well-represented",
+   "demand": "High demand",
+   "rank": 14
+  },
+  {
+   "categoryId": "SCAT_1",
+   "branch": "Appearance",
+   "supply": "Well-represented",
+   "demand": "High demand",
+   "rank": 15
+  },
+  {
+   "categoryId": "CAT_16",
+   "branch": "Vertical Comic",
+   "supply": "Too few lenses",
+   "demand": null,
+   "rank": 16
+  },
+  {
+   "categoryId": "MCAT_11",
+   "branch": "MCAT_11",
+   "supply": "Too few lenses",
+   "demand": null,
+   "rank": 17
+  }
+ ],
+ "category_opportunities_caveat": "Demand is not adjusted for how often a category is shown, so a category the carousel already favours reads higher than its own appetite."
+}
