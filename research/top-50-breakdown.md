@@ -26,6 +26,9 @@ visual classification). Scripts: `research/scripts/`.
 5. **Cheap beats complicated.** Scene-only grades (no face needed), text-card statements and
    sticker reactions need few or no scripts. About a quarter of the top 50 (13 of 50) have no
    script files at all.
+6. **Most winners are image-led.** 36 of 50 use lens-specific overlays, makeup masks,
+   props or uploaded photos. Colour grades run on overlay textures rather than custom lookup
+   tables. Face warps use no image files at all.
 
 ## Method and limits
 
@@ -38,6 +41,10 @@ visual classification). Scripts: `research/scripts/`.
   retouch masks, ML model files, face-warp shaders, script names). A bundled file means the
   feature ships with the lens. It does not prove a viewer triggers it. Default template files
   inflate some counts, so treat the LUT and retouch figures as "bundled", not "used".
+- **Image files.** Each bundle's image files were scanned. Files shared by more than four lenses
+  (template defaults) and UI icons were dropped. The rest were grouped as overlays and textures,
+  makeup masks, props, uploaded photos or custom LUTs. Only counts are stored, not file names.
+  Video and in-scene textures are not covered.
 - **Scores.** The boards expose `pct`, which is rank ÷ pool (a percentile), not a score. The
   rolling-30 board has an "Estimated Lens+ Score". The creator hit-rate board ranks creators but
   does not show the rate itself.
@@ -144,7 +151,42 @@ correlation is essentially zero (ρ = −0.04).
 - **Countries:** SA 15, DE 14, IN 13, PK 5, US 2, AE 1. SA, DE and IN together hold 84%. The
   chart does not show whether these are audience or creator location.
 
-## 4. What the bundles contain (feature prevalence, 50 lenses)
+## 4. Image-based filters and bundle contents
+
+A lens counts as image-led when it carries lens-specific overlay art, makeup masks, props or uploaded
+photos. Template defaults are excluded, so these are images the creator supplied.
+
+- **36 of 50 are image-led,** including 8 of the top 10 and 15 of ranks 26 to 50.
+- **6 have no custom image files:** #7 Nashville Stretch, #15 Funny smile12, #30 Guess The Birthday,
+  #36 Sigma Face, #39 L2+78 and #49 2016 Eyes. Video or in-scene textures would not show up here.
+- **Only 4 use a custom colour lookup table (LUT):** #4 mustache + tattoos, #11 2013 Stretched v2,
+  #26 2016 Lite and #42 2016 Nerd Stretch. A default lookup file appears in 35 bundles, so a LUT file
+  on its own says little.
+
+| Category | Image-led | Custom LUT | No custom images | Median custom images |
+|---|---|---|---|---|
+| Beauty & glam | 10 of 10 | 0 | 0 | 18 |
+| Colour grade | 10 of 12 | 1 | 0 | 16.5 |
+| Face accessories | 3 of 3 | 1 | 0 | 11 |
+| Interactive & quiz | 4 of 7 | 0 | 1 | 7 |
+| Mirror & split panels | 4 of 6 | 2 | 2 | 5 |
+| Text-card reaction | 2 of 3 | 0 | 0 | 2 |
+| Animal & creature | 2 of 3 | 0 | 0 | 1 |
+| Face warp & distortion | 0 of 3 | 0 | 3 | 0 |
+| Other / unclear | 0 of 2 | 0 | 0 | 7.5 |
+| AI stylise | 1 of 1 | 0 | 0 | 1 |
+
+What this means:
+
+- **Colour grades run on overlay textures** (grain, haze, glow, blend layers). Only one of the 12
+  uses a custom LUT.
+- **Face warps need no images.** The stretch geometry is the whole effect, which makes them cheap
+  to copy.
+- **Retro-year lenses are the exception.** #11, #26 and #42 stack a custom LUT on top of overlays.
+- **No lens carries the chart's "Filters" category tag.** The closest tags are Aesthetic and Video
+  Effects.
+
+### Bundle file signals (all 50)
 
 | Feature signal (file names in bundle) | Lenses |
 |---|---|
@@ -202,18 +244,19 @@ volume and persistence across boards, and it is still correlation among winners.
 - **Evidence:** 12 of 50 all-time and 12 of 50 in the 30-day board, all by eren892 (5 lenses on
   both lists). Stretch names went from 5 to 8. 2013/2016 names fell from 5 to 3, so the newer
   momentum is in stretch variants, with the year tint kept less often.
-- **Build:** a Face Stretch or graph-warp component, then a mirror duplicate using a flipped copy,
-  then a colour grade, then an accessory overlay. See the `lenses/lash-glam` project in this repo
-  for the accessory part.
+- **Build:** the stretch and mirror core needs no images, only a Face Stretch or graph-warp component
+  and a flipped copy. The 2013 or 2016 tint adds a custom LUT and overlays, and the accessory adds an
+  overlay. See the `lenses/lash-glam` project in this repo for the accessory part.
 
 ### F2. Dazz and natural-beauty grade (strength: high)
 
-- **Ingredients:** a light or no-face grade, a one-word series name ("Dazz", "No Makeup",
-  "Light Filter", "Good Light"), and no heavy effects.
+- **Ingredients:** a light grade built from overlay textures (grain, haze, glow) with little face
+  work, a one-word series name ("Dazz", "No Makeup", "Light Filter", "Good Light"), and no heavy
+  effects.
 - **Evidence:** n-zw has 5 all-time and 8 in the 30-day board. Beauty and filter names went from
-  10 to 16.
-- **Build:** a colour LUT or colour correction plus a soft beauty layer. This is the cheapest
-  formula with strong momentum.
+  10 to 16. 10 of the 12 colour grades use overlay textures, and only one uses a custom LUT.
+- **Build:** overlay texture layers with a soft beauty layer. This is the cheapest formula with
+  strong momentum. Add a custom LUT only for a specific tone, since most top grades don't need one.
 
 ### F3. Scene-only grade (strength: medium)
 
@@ -285,3 +328,5 @@ volume and persistence across boards, and it is still correlation among winners.
   small-volume creators are inflating the list.
 - Check whether the Games niche (very high hit rate in `chart-boards`) is worth pursuing.
   It is outside the top 50, so it is not covered by these formulas.
+- Image groups come from file names, so some files may be misgrouped. Check a few lenses in Lens
+  Studio to confirm the overlay and LUT groups.
